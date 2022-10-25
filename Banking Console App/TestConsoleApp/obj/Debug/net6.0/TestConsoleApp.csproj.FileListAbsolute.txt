@@ -1,0 +1,15 @@
+C:\Banking-56B\Banking Console App\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.exe
+C:\Banking-56B\Banking Console App\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.deps.json
+C:\Banking-56B\Banking Console App\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.runtimeconfig.json
+C:\Banking-56B\Banking Console App\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.dll
+C:\Banking-56B\Banking Console App\TestConsoleApp\bin\Debug\net6.0\TestConsoleApp.pdb
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.csproj.AssemblyReference.cache
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.AssemblyInfo.cs
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.dll
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\refint\TestConsoleApp.dll
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.pdb
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\TestConsoleApp.genruntimeconfig.cache
+C:\Banking-56B\Banking Console App\TestConsoleApp\obj\Debug\net6.0\ref\TestConsoleApp.dll
