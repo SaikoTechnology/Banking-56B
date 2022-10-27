@@ -1,0 +1,2 @@
+You have to install the Draw.io extension in order to open .drawio files including the Outline.drawio file.
+Once you've installed the application, right click on the any file that has the .drawio extension > open with > drawio and shabam!
